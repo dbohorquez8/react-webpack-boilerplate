@@ -1,7 +1,7 @@
 {
-  "name": "aj-audio",
+  "name": "react-webpack-boilerplate",
   "version": "0.0.1",
-  "description": "",
+  "description": "Webpack boilerplate for React.js with SASS and Babel",
   "main": "index.js",
   "dependencies": {
     "autoprefixer-core": "^6.0.1",
@@ -28,6 +28,6 @@
     "start": "webpack-dev-server --inline",
     "build": "webpack -p"
   },
-  "author": "",
+  "author": "Richard Roncancio",
   "license": "ISC"
 }
