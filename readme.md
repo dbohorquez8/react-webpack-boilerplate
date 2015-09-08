@@ -8,15 +8,31 @@ Webpack boilerplate for React.js with SASS and Babel
 2. Install a stable version of Node.js or io.js
 3. Enter the project's folder
 4. Use the installed Node.js version:
-```nvm use <node version>```
+
+  ```console
+  $ nvm use <node version>
+  ```
+
 5. Install Webpack:
-```npm install -g webpack```
+
+  ```console
+  $ npm install -g webpack
+  ```
+
 6. Install node packages:
-```npm install```
+
+  ```console
+  $ npm install
+  ```
 
 ## Run 
 
-```npm start```
+  ```console
+  $ npm start
+  ```
 
 ## Build
-```npm run build```
+
+  ```console
+  $ npm run build
+  ```
